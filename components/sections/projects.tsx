@@ -56,7 +56,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://github.com/Akring-creator/join-layer-plugin"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
