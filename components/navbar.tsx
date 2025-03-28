@@ -15,7 +15,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }: NavbarProps) => {
       <div className="max-w-5xl mx-auto px-4 flex justify-between items-center h-16">
         {/* Logo */}
         <a href="#home" className="font-mono text-xl font-bold text-white">
-          akmal<span className="text-blue-500">.tech</span>
+          akmimn<span className="text-blue-500">.space</span>
         </a>
 
         {/* Mobile Menu Button */}
