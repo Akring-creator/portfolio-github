@@ -64,10 +64,10 @@ export const Projects = () => {
               </div>
             </div>
             <div className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)] transition-all">
-              <h3 className="text-xl font-bold mb-2">TokPupa</h3>
+              <h3 className="text-xl font-bold mb-2">SEASC U-Net Research</h3>
               <p className="text-gray-400 mb-4">
-                Full-stack e-commerce with modern UI, social media integration,
-                and customizable product inventory.
+                Research Results: U-Net-Based Segmentation Models for Land Use
+                Classification in Indonesia Presented at SEASC
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Next.js", "TypeScript", "TailwindCSS", "PostgreSQL"].map(
@@ -83,7 +83,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://github.com/Akring-creator/deep-learning-SEASC-2022"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
@@ -91,10 +91,10 @@ export const Projects = () => {
               </div>
             </div>
             <div className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)] transition-all">
-              <h3 className="text-xl font-bold mb-2">Real-Time Docs App</h3>
+              <h3 className="text-xl font-bold mb-2">Geospatial Web</h3>
               <p className="text-gray-400 mb-4">
-                Real-Time Writing and Editing for Seamless Document Creation and
-                Teamwork
+                Simple CRUD Application Based on CodeIgniter 4 for Web
+                Programming Learning
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Socket.IO", "TailwindCSS", "React", "Redis"].map(
@@ -110,7 +110,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://github.com/Akring-creator/asistensi"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
