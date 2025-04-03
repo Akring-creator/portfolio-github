@@ -136,7 +136,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Research Asisstant at Indonesia University of Education
+                    Research Assistant at Indonesia University of Education
                     (2023 - 2024){" "}
                   </h4>
                   <p>
@@ -148,8 +148,31 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Teaching Assistnt at Indonesia University of Education (2022
-                    - 2023 ){" "}
+                    Curriculum and Development Intern at Early Engineer (2022 -
+                    2023 ){" "}
+                  </h4>
+                  <p>
+                    Oversaw curriculum and content development in the production
+                    division.{" "}
+                  </p>
+                </div>
+
+                <div>
+                  <h4 className="font-semibold">
+                    {" "}
+                    Geospatial Engineer Intern at Berau Coal (2022 - 2023 ){" "}
+                  </h4>
+                  <p>
+                    I undertook the development of a user-friendly geoportal
+                    accessible to the general public.{" "}
+                  </p>
+                </div>
+
+                <div>
+                  <h4 className="font-semibold">
+                    {" "}
+                    Teaching Assistant at Indonesia University of Education
+                    (2022 - 2023 ){" "}
                   </h4>
                   <p>
                     Assisted lecturers in teaching the Leaflet.js framework and
