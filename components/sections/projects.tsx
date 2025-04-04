@@ -70,7 +70,7 @@ export const Projects = () => {
                 Classification in Indonesia Presented at SEASC
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Next.js", "TypeScript", "TailwindCSS", "PostgreSQL"].map(
+                {["Python", "U-Net", "Tensorflow", "Google Colab"].map(
                   (tech) => (
                     <span
                       key={tech}
@@ -97,7 +97,7 @@ export const Projects = () => {
                 Programming Learning
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Socket.IO", "TailwindCSS", "React", "Redis"].map(
+                {["CodeIgniter", "TailwindCSS", "PHP", "Leaflet.js"].map(
                   (tech, index) => (
                     <span
                       key={index}
