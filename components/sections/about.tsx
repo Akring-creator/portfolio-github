@@ -190,16 +190,6 @@ export const About = () => {
                     scores.
                   </p>
                 </div>
-                <div>
-                  <h4 className="font-semibold">
-                    {" "}
-                    Geospatial intern at Berau Coal (2022){" "}
-                  </h4>
-                  <p>
-                    Develop a GIS website for monitoring and evaluating program
-                    in CSR Department
-                  </p>
-                </div>
               </div>
             </div>
           </div>

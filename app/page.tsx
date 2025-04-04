@@ -3,6 +3,7 @@ import { LoadingScreen } from "@/components/loadingscreen";
 import { MobileMenu } from "@/components/mobilemenu";
 import { Navbar } from "@/components/navbar";
 import { About } from "@/components/sections/about";
+import Contacts from "@/components/sections/contacts";
 import { Introduction } from "@/components/sections/introduction";
 import { Projects } from "@/components/sections/projects";
 import { useState } from "react";
@@ -23,6 +24,7 @@ export default function Home() {
         <Introduction />
         <About />
         <Projects />
+        <Contacts />
       </div>
     </div>
   );

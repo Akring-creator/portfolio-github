@@ -6,7 +6,7 @@ interface LoadingScreenProps {
 }
 export const LoadingScreen = ({ onComplete }: LoadingScreenProps) => {
   const [text, setText] = useState("");
-  const fullText: string = "< Welcome />";
+  const fullText: string = "< akmimn.space />";
 
   useEffect(() => {
     let index: number = 0;
